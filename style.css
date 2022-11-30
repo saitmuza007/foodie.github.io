@@ -1,0 +1,39 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+#clr
+{
+  background: #070745;
+  color:#ffff;
+  font-family: 'Anek Devanagari', sans-serif;
+}
+#cls{
+  background: #ffff;
+}
+#hero{
+  background: black;
+  height: auto;
+  width:auto;
+}
+#imgscale{
+  height: 200px;
+
+  display:block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#clse
+{
+  color:#ffff;
+  font-family: 'Anek Devanagari', sans-serif;
+  
+}
+#pol
+{
+  background: #0000;
+  display:block;
+  margin-right: auto;
+  margin-left: auto;
+}
