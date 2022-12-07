@@ -1,7 +1,4 @@
-html, body {
-  height: 100%;
-  width: 100%;
-}
+
 #clr
 {
   background: #070745;
@@ -13,7 +10,7 @@ html, body {
 }
 #hero{
   background: black;
-  height: auto;
+  height:auto;
   width:auto;
 }
 #imgscale{
@@ -36,4 +33,25 @@ html, body {
   display:block;
   margin-right: auto;
   margin-left: auto;
+}
+#fd
+{
+  font-family: 'Anek Devanagari', sans-serif;
+  font-size: 20px;
+
+}
+#opl
+{
+  font-family: 'Anek Devanagari', sans-serif;
+  text-align: center;
+
+}
+#img1
+{
+  height: 300px;
+  width: auto;
+}
+#carouselExampleControls
+{
+  border: 4px solid black;
 }
