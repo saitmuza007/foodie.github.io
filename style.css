@@ -55,3 +55,30 @@
 {
   border: 4px solid black;
 }
+.gal
+{
+  font-family: 'Anek Devanagari', sans-serif;
+  text-align: center;
+  color:#ffff;
+
+}
+.hrcl
+{
+  border:4px solid red;
+  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.gal1
+{
+  height: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.gal2
+{
+  height: 200px;
+}
