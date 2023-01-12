@@ -60,6 +60,7 @@
   font-family: 'Anek Devanagari', sans-serif;
   text-align: center;
   color:#ffff;
+  font-size:60px;
 
 }
 .hrcl
@@ -76,9 +77,41 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+
 }
 
 .gal2
 {
   height: 200px;
+}
+.gal3
+{
+  font-family: 'Anek Devanagari', sans-serif;
+  text-align: center;
+  font-size:60px;
+  
+}
+.ft
+{
+  
+  font-family: 'Anek Devanagari', sans-serif;
+  text-align: center;
+  font-size:30px;
+}
+
+#qw
+{
+  height: 70px;
+}
+#yu
+{
+  font-size: 28px;
+  color:#070745 ;
+  font-weight:500
+ 
+}
+#qw1
+{
+  height:60px;
+  margin-left: 10px;
 }
